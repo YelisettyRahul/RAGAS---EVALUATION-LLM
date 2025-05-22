@@ -1,0 +1,362 @@
+[
+    {
+        "question": "What defines triple negative breast cancer (TNBC) at the immunohistochemical level?",
+        "reference": "Lack of expression (< 1%) of ER, PgR, and HER2."
+    },
+    {
+        "question": "What percentage of all breast cancers does TNBC account for?",
+        "reference": "Approximately 10-20%."
+    },
+    {
+        "question": "What patient population is most commonly affected by TNBC?",
+        "reference": "Young, premenopausal women."
+    },
+    {
+        "question": "What kind of genetic alterations are associated with TNBC?",
+        "reference": "BRCA 1/2 mutations."
+    },
+    {
+        "question": "How would you describe the biological behavior of TNBC?",
+        "reference": "Aggressive, higher grade, often lymph node involvement, inclination to metastasize."
+    },
+    {
+        "question": "What has been the traditional treatment for early TNBC?",
+        "reference": "Surgery and adjuvant chemotherapy."
+    },
+    {
+        "question": "What has conventional cytotoxic chemotherapy represented in early TNBC?",
+        "reference": "The backbone of systemic treatment."
+    },
+    {
+        "question": "What is the purpose of neoadjuvant treatment?",
+        "reference": "To reduce tumor size."
+    },
+    {
+        "question": "What two types of inhibitors have shown survival benefits in recent TNBC studies?",
+        "reference": "Immunotherapy and PARP inhibitors."
+    },
+    {
+        "question": "What could combinations of immune checkpoint inhibitors (ICIs) emerge as in the management of TNBC patients?",
+        "reference": "A successful therapeutic approach."
+    },
+    {
+        "question": "What type of comprehension would amplify the potential for developing targeted immunotherapy in TNBC?",
+        "reference": "Comprehension of tumor subtypes, TME, and molecular, genetic, and immune aspects."
+    },
+    {
+        "question": "What specific role of immunotherapy is this review aiming to investigate?",
+        "reference": "Its role in early-stage TNBC."
+    },
+    {
+        "question": "What prognostic value are the authors aiming to investigate?",
+        "reference": "Pathologic complete response (pCR)."
+    },
+    {
+        "question": "What makes TNBC a promising candidate for immunotherapy?",
+        "reference": "Its high immunogenic potential."
+    },
+    {
+        "question": "What is TNBC immunogenicity related to?",
+        "reference": "Intrinsic tumor cell signatures and tumoral surrounding microenvironment features."
+    },
+    {
+        "question": "What emerging technologies have improved the knowledge of the molecular and genetic background of TNBC?",
+        "reference": "Next-generation sequencing (NGS)."
+    },
+    {
+        "question": "What did the first classification divide TNBC into?",
+        "reference": "Basal-like 1 (BL1), basal-like 2 (BL2), mesenchymal (M), M stem-like (MSL), immunomodulatory (IM), and luminal androgen receptor (LAR)."
+    },
+    {
+        "question": "How many TNBC tumors were analyzed to shape a four-type classification of TNBC?",
+        "reference": "198."
+    },
+    {
+        "question": "What are the four specific TNBC subtypes identified after revision?",
+        "reference": "BL1, BL2, M, and LAR."
+    },
+    {
+        "question": "What were IM and MSL subtypes omitted?",
+        "reference": "Because of the dependence of these two subtypes on the TME features."
+    },
+    {
+        "question": "How can TNBC be classified in addition to subtypes?",
+        "reference": "Into three microenvironment phenotypes or clusters."
+    },
+    {
+        "question": "What characterizes Cluster 1?",
+        "reference": "\"Immune-desert\" with poor immune cell permeation, due to a high presence of MYC amplifications."
+    },
+    {
+        "question": "What pathway is hyper-activated in Cluster 2?",
+        "reference": "Phosphatidylinositide 3-kinase/protein kinase B (PI3K-AKT) pathway."
+    },
+    {
+        "question": "What are Clusters 1 and 2 referred to?",
+        "reference": "\"Cold tumors.\""
+    },
+    {
+        "question": "What percentage of TNBCs does Cluster 3 represent?",
+        "reference": "About 30%."
+    },
+    {
+        "question": "What is Cluster 3 characterized by?",
+        "reference": "An abundant adaptive and innate immune cells infiltration and with a high expression of immune checkpoint molecules."
+    },
+    {
+        "question": "What is another name for Cluster 3?",
+        "reference": "\"Hot tumor.\""
+    },
+    {
+        "question": "What could the potential \"hot\" conversion of \"cold\" tumors improve?",
+        "reference": "The efficacy of cancer immunotherapy."
+    },
+    {
+        "question": "How can local IM therapies express a synergistic effect with immunotherapy?",
+        "reference": "By acting on components of the TME and immune system function, elevating the expression of tumor antigens and increasing the recruitment of activated immune cells in the TME."
+    },
+    {
+        "question": "What is one way local IM therapies may synergize with immunotherapy?",
+        "reference": "Elevating the expression of tumor antigens."
+    },
+    {
+        "question": "What percentage of breast malignancies does TNBC account for?",
+        "reference": "TNBC accounts for approximately 15-20% of breast malignancies."
+    },
+    {
+        "question": "What treatment has been the mainstay for early-stage TNBC patients?",
+        "reference": "Anthracycline- and taxane-based chemotherapy."
+    },
+    {
+        "question": "Which PD-1 inhibitor has been approved for patients with advanced PD-L1-positive and early high-risk TNBC?",
+        "reference": "Pembrolizumab."
+    },
+    {
+        "question": "What are PARPi, PD-(L)1 inhibitors, and ADCs approved for?",
+        "reference": "The treatment of TNBC."
+    },
+    {
+        "question": "What are the three stages of \"cancer immunoediting\"?",
+        "reference": "Elimination, equilibrium, and escape."
+    },
+    {
+        "question": "What do APCs mainly include?",
+        "reference": "Dendritic cells (DCs)."
+    },
+    {
+        "question": "What is the single-agent effectiveness of PD-(L)1 inhibitors in patients with PD-L1-positive metastatic TNBC (mTNBC)?",
+        "reference": "Approximately 20%."
+    },
+    {
+        "question": "What characteristics of TNBC, compared to other subtypes, make it more likely to benefit from immunotherapy?",
+        "reference": "Higher PD-L1 expression and tumor-infiltrating lymphocytes (TILs)."
+    },
+    {
+        "question": "Besides T cells, what other immune cells are essential for tumor cell elimination?",
+        "reference": "B cells and innate immune cells, such as natural killer (NK) cells."
+    },
+    {
+        "question": "What is the main challenge in TNBC treatment due to the absence of specific receptors?",
+        "reference": "TNBC cannot benefit from endocrine or anti-HER-2 therapy."
+    },
+    {
+        "question": "What systemic treatment was historically the only option for TNBC?",
+        "reference": "Chemotherapy."
+    },
+    {
+        "question": "What launched the era of immunotherapy in TNBC?",
+        "reference": "The successful application of immune checkpoint inhibitors (ICIs)."
+    },
+    {
+        "question": "What is the primary reason for the poor prognosis of TNBC?",
+        "reference": "The lack of effective treatment options."
+    },
+    {
+        "question": "What needs to be considered when combining multiple drugs for TNBC treatment?",
+        "reference": "The side effects associated with the combination."
+    },
+    {
+        "question": "What is the significance of genomic advances in TNBC?",
+        "reference": "They reveal a high degree of heterogeneity and set the stage for targeted therapies."
+    },
+    {
+        "question": "What is the definition of mTNBC?",
+        "reference": "metastatic TNBC."
+    },
+    {
+        "question": "What is the purpose of the review described in the abstract?",
+        "reference": "To analyze immunotherapy strategies, summarize clinical trials, review results, and shed light on future developments in TNBC."
+    },
+    {
+        "question": "What are tumor cells releasing, which are captured by antigen-presenting cells?",
+        "reference": "Specific antigens."
+    },
+    {
+        "question": "What is the expected impact of immune combination therapy in TNBC?",
+        "reference": "To further enhance the efficacy and expand the beneficiary population of patients."
+    },
+    {
+        "question": "How soon do most TNBC patients develop recurrence and metastasis?",
+        "reference": "Within 3 years."
+    },
+    {
+        "question": "What is the first step in the cascade of events for tumor cell elimination?",
+        "reference": "Tumor cells release specific antigens."
+    },
+    {
+        "question": "What is the main role of DCs in the process of tumor cell elimination?",
+        "reference": "To present antigenic signals to T cells."
+    },
+    {
+        "question": "What do T cells do after activation in the process of tumor cell elimination?",
+        "reference": "They transport and infiltrate tumor tissues."
+    },
+    {
+        "question": "What are being analyzed in the review in terms of the poor efficacy of PD-(L)1 inhibitors monotherapy?",
+        "reference": "Tumor immune escape mechanisms and tumor immune microenvironment (TIME) characteristics of TNBC."
+    },
+    {
+        "question": "What needs to be selected to identify the target population for effective TNBC treatments?",
+        "reference": "Effective biomarkers."
+    },
+    {
+        "question": "What are the three main hormone receptors not expressed in TNBC?",
+        "reference": "Estrogen receptors, progesterone receptors and HER-2."
+    },
+    {
+        "question": "What are the possible negative effects linked to immunotherapy in TNBC?",
+        "reference": "Possible adverse events."
+    },
+    {
+        "question": "In what condition is pembrolizumab approved to treat TNBC?",
+        "reference": "advanced PD-L1-positive and early high-risk disease."
+    },
+    {
+        "question": "What cascade event happens right after tumor cells release specific antigens?",
+        "reference": "Antigens are captured and processed by APCs."
+    },
+    {
+        "question": "How can the interaction between tumor cells and the TIME be described?",
+        "reference": "Cancer immunoediting."
+    },
+    {
+        "question": "What percentage of all breast cancer cases does TNBC account for?",
+        "reference": "10-15%"
+    },
+    {
+        "question": "What receptors are lacking in TNBC?",
+        "reference": "Estrogen and progesterone receptors."
+    },
+    {
+        "question": "Is TNBC sensitive to chemotherapy?",
+        "reference": "Yes."
+    },
+    {
+        "question": "What are some subgroups of TNBC that have seen recent advances with novel agents?",
+        "reference": "PD-L1+ tumors and germline Brca-mutated tumors."
+    },
+    {
+        "question": "What is the standard of care for TNBC?",
+        "reference": "Chemotherapy."
+    },
+    {
+        "question": "What are the criteria to classify breast cancer subtypes?",
+        "reference": "Molecular profile based on biomarkers like ER?, PR, and HER2."
+    },
+    {
+        "question": "How is TNBC characterized according to ASCO/CAP guidelines?",
+        "reference": "?1% ER/PR expression by IHC, and HER2 expression of 0-1+ by IHC or 2+ by IHC and FISH negative."
+    },
+    {
+        "question": "What are the four distinct transcriptional subtypes of TNBC?",
+        "reference": "BL1, BL2, M, and LAR."
+    },
+    {
+        "question": "What percentage of newly diagnosed breast cancers does TNBC represent?",
+        "reference": "15-20%."
+    },
+    {
+        "question": "What is the median overall survival for TNBC with current therapies?",
+        "reference": "10.2 months."
+    },
+    {
+        "question": "What does the current SOC for newly diagnosed early TNBC consist of?",
+        "reference": "Neoadjuvant chemotherapy followed by surgery."
+    },
+    {
+        "question": "What are some available therapies for patients with advanced TNBC?",
+        "reference": "Capecitabine, gemcitabine, eribulin, and platinums."
+    },
+    {
+        "question": "How does TNBC compare to other breast cancer subtypes in terms of immunogenicity?",
+        "reference": "TNBC is more immunogenic."
+    },
+    {
+        "question": "What is the relationship between PD-L1 expression and TNBC?",
+        "reference": "TNBC displays a high level of PD-L1 expression."
+    },
+    {
+        "question": "What immunotherapy drug was approved by the FDA in combination with nab-paclitaxel for TNBC?",
+        "reference": "Atezolizumab."
+    },
+    {
+        "question": "For whom was atezolizumab approved as a first-line therapy?",
+        "reference": "Patients with PD-L1+, unresectable, locally advanced or metastatic TNBC."
+    },
+    {
+        "question": "What percentage of enrolled patients showed PD -L1-positive expression in the IMpassion130 trial?",
+        "reference": "41%."
+    },
+    {
+        "question": "What immunotherapy was approved in 2017 as a histology agnostic immunotherapy in all microsatellite instability -high (MSI -H) and/or mismatch repair deficient (dMMR) tumors?",
+        "reference": "Pembrolizumab."
+    },
+    {
+        "question": "How common is MSI-H in breast cancer?",
+        "reference": "Rare, less than 2%."
+    },
+    {
+        "question": "What is the relationship between BRCA1/2-deficient tumors and PARP inhibitors?",
+        "reference": "They exhibit synthetic lethality with PARP inhibitors."
+    },
+    {
+        "question": "What PARP inhibitors were approved by the FDA for advanced-stage HER2-negative breast cancer in individuals with BRCA1 or BRCA2 mutations?",
+        "reference": "Olaparib and talazoparib."
+    },
+    {
+        "question": "What percentage of breast cancer patients carry a gBRCAm?",
+        "reference": "Approximately 5%."
+    },
+    {
+        "question": "What was olaparib compared to in the OlympiAD Phase III trial?",
+        "reference": "Physician's choice of chemotherapy (capecitabine, vinorelbine or eribulin)."
+    },
+    {
+        "question": "What was the effect of olaparib on median PFS compared to the control group in the OlympiAD trial?",
+        "reference": "A 42% increase in median PFS."
+    },
+    {
+        "question": "What was talazoparib compared to in the EMBRACA Phase III trial?",
+        "reference": "Gemcitabine or the same physician's choice of standard therapy as the OlympiAD trial."
+    },
+    {
+        "question": "What was the effect of talazoparib on median PFS compared to the control group in the EMBRACA trial?",
+        "reference": "A 46% increase in median PFS."
+    },
+    {
+        "question": "What grade 3-4 AEs were primarily associated with talazoparib?",
+        "reference": "Anemia."
+    },
+    {
+        "question": "What agents have been explored in clinical studies to improve therapeutic benefit in TNBC treatment?",
+        "reference": "Immuno- and targeted therapies."
+    },
+    {
+        "question": "What is the median progression-free survival (PFS) with chemotherapy for TNBC?",
+        "reference": "1.7 to 3.7 months."
+    },
+    {
+        "question": "What is the median OS from the onset of metastasis for TNBC?",
+        "reference": "10 to 13 months."
+    }
+]
